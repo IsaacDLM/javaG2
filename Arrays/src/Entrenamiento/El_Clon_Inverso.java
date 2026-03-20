@@ -22,7 +22,6 @@ public class El_Clon_Inverso {
             clon[original.length - 1 - i] = original[i];
         }
          */
-
         System.out.println(Arrays.toString(clon));
     }
 }
